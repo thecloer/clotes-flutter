@@ -14,7 +14,7 @@ This project follows [Flutter Course for Beginners – 37-hour Cross Platform Ap
 - [x] Chapter 5 - Sound Null-safety in Dart
 - [x] Chapter 6 - Dart enumerations, classes and objects
 - [x] Chapter 7 - Advanced Dart
-- [ ] Chapter 8 - Project setup
+- [x] Chapter 8 - Project setup
 - [ ] Chapter 9 - iOS App Setup (App Identifier, Certificates and Profiles)
 - [ ] Chapter 10 - Android app Setup
 - [ ] Chapter 11 - Firebase Backend Setup
