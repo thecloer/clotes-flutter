@@ -15,7 +15,7 @@ This project follows [Flutter Course for Beginners – 37-hour Cross Platform Ap
 - [x] Chapter 6 - Dart enumerations, classes and objects
 - [x] Chapter 7 - Advanced Dart
 - [x] Chapter 8 - Project setup
-- [ ] Chapter 9 - iOS App Setup (App Identifier, Certificates and Profiles)
+- [x] Chapter 9 - iOS App Setup (App Identifier, Certificates and Profiles)
 - [ ] Chapter 10 - Android app Setup
 - [ ] Chapter 11 - Firebase Backend Setup
 - [ ] Chapter 12 - Basic register-user screen
